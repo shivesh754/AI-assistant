@@ -7,7 +7,7 @@ A simple voice-controlled assistant built using Python. This project uses speech
 - 🎙️ Voice input using microphone
 - 🗣️ Text-to-speech responses via `pyttsx3`
 - 🔎 Search Wikipedia and read summaries aloud
-- 🌐 Open popular websites like Google, YouTube, and StackOverflow
+- 🌐 Open popular websites like Google, YouTube, Instagram and StackOverflow
 - 🎵 Play local music files
 - 🕒 Tell the current time
 - 📧 Send emails via Gmail (SMTP)
