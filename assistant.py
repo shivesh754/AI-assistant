@@ -78,8 +78,20 @@ if __name__ == "__main__":
         elif 'open google' in query:
             webbrowser.open("google.com")
 
-        elif 'open chatgpt' in query:
+        elif 'open chat gpt' in query:
             webbrowser.open("chatgpt.com")   
+
+        elif 'open linked in' in query:
+            webbrowser.open("linkedin.com") 
+
+        elif 'open stackoverflow' in query:
+            webbrowser.open("stackoverflow.com")
+
+        elif 'open instagram' in query:
+            webbrowser.open("instagram.com")
+
+        elif 'open whatsapp' in query:
+            webbrowser.open("web.whatsapp.com")
 
 
 
